@@ -15,9 +15,9 @@
 		</repository>
     </repositories>
     <scm>
-        <url>https://github.com/zhuker/rtalk</url>
-        <connection>scm:git:https://github.com/zhuker/rtalk.git</connection>
-        <developerConnection>scm:git:https://github.com/zhuker/rtalk.git</developerConnection>
+        <url>https://github.com/videogorillas/rtalk</url>
+        <connection>scm:git:https://github.com/videogorillas/rtalk.git</connection>
+        <developerConnection>scm:git:https://github.com/videogorillas/rtalk.git</developerConnection>
   </scm>
 	<build>
 		<extensions>
